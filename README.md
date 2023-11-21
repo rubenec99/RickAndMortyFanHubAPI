@@ -43,5 +43,5 @@ Se utiliza Git para el control de versiones.
 
 ## ✒️ Autor
 
-- Rubén Escudero - [GitHub](https://github.com/rubenec99)
+- Rubén Escudero - [rubenec99](https://github.com/rubenec99)
 
