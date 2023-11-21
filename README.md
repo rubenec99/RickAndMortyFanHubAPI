@@ -14,15 +14,16 @@ Instrucciones para obtener una copia del proyecto en funcionamiento en tu entorn
 
 ### 🔧 Instalación
 
-1. Clonar el repositorio:
-git clone https://github.com/rubenec99/RickAndMortyFanHubAPI.git
-2. Acceder a la carpeta del proyecto:
-cd RickAndMortyFanHubAPI
-3. Instalar las dependencias:
-npm install
-4. Configurar las variables de entorno según las necesidades del proyecto.
-5. Iniciar el servidor:
-npm start
+    Pasos para obtener un entorno de desarrollo en marcha:
+      1. Clona el repositorio:
+        git clone https://github.com/rubenec99/RickAndMortyFanHubAPI.git
+      2. Accede a la carpeta del proyecto:
+        cd RickAndMortyFanHubAPI
+      3. Instala las dependencias:
+        npm install
+      4. Confugurar las variables de entorno según las necesidades del proyecto.
+      5. Inciar el servidor:
+        npm start
 
 
 ## ⚙️ Configuración de la base de datos
