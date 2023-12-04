@@ -32,6 +32,9 @@ Instrucciones para obtener una copia del proyecto en funcionamiento en tu entorn
 - Crea una base de datos específica para el proyecto.
 - Ejecutar scripts de inicialización de base de datos si se proporcionan.
 
+## 🔗 Enlace al proyecto GitHub del Front End de la apliación 
+  * Front End - [RickAndMortyFanHubAPI](https://github.com/rubenec99/RickAndMortyFanHub)
+
 ## 🛠️ Construido con
 
 - Node.js
